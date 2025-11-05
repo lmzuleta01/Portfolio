@@ -10,6 +10,9 @@
 
 - <b>Amazon Review Insight </b>
   - [Practicing  Natural Language Processing (NLP) techniques with the spaCy library](https://github.com/lmzuleta01/Amazon-Review-Insight)
+    
+- <b> USArrests Dataset </b>
+  - [PCA & Clustering ](https://github.com/lmzuleta01/PCA-Clustering-on-USArrests-Dataset)
  
 <h2>🔭 I’m currently working on: </h2>
 
