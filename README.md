@@ -4,7 +4,9 @@
 
 - <b>Automobile Anaylsis Project </b>
   - [Practicing EDA in Python](https://github.com/lmzuleta01/Automobile-Anaylsis-Project)
-
+  
+- <b>EDA-Highest-Paid-Athletes-Dataset  </b>
+  - [Creating Visualizations for Key Findings](https://github.com/lmzuleta01/EDA-Highest-Paid-Athletes-Dataset)
 
 <h2>⚙️ Machine Learning Projects:</h2>
 
