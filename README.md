@@ -1,8 +1,8 @@
 <h1>Hi, I'm Leandro! <br/> Programmer, Data Analyst, Electrical Engineer </h1>
 
-<h2> ⭐ Featured Project:</h2>
+<h2> ⭐ Featured Project (SQL + Python + Power BI):</h2>
 
-- <b> Bank Churn Anaylsis (SQL + Python + Power BI) </b>
+- <b> Bank Churn Anaylsis  </b>
 
   - [Credit Card Customer Churn-Analysis
 ](https://github.com/lmzuleta01/Credit-Card-Customer-Churn-Analysis)
