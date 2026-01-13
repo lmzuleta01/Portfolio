@@ -8,7 +8,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>[Automobile Anaylsis Project — Practicing EDA in Python](https://github.com/lmzuleta01/Automobile-Anaylsis-Project) </b>
+- <b>[Automobile Analysis Project — Practicing EDA in Python](https://github.com/lmzuleta01/Automobile-Anaylsis-Project) </b>
   - Performed exploratory data analysis on vehicle pricing data to uncover relationships between engine size, fuel efficiency, brand, and market price using Pandas, Matplotlib, and Seaborn.
   
 - <b>[Highest Paid Athletes Dataset — Creating Visualizations for Key Finding](https://github.com/lmzuleta01/EDA-Highest-Paid-Athletes-Dataset)  </b>
